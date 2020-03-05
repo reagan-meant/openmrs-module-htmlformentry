@@ -218,6 +218,7 @@ public class HtmlFormEntryGenerator implements TagHandler {
         return xml;
     }
 
+    
     /**
      * Takes an xml string, searches for special characters in the string and replaces them
      * with the appropriate ascii value https://issues.openmrs.org/browse/HTML-325
